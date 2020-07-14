@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87" started-at="2020-07-02T22:02:58 IST" finished-at="2020-07-02T22:02:58 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="87" started-at="2020-07-02T22:02:58 IST" finished-at="2020-07-02T22:02:58 IST">
+      <class name="SeleniumPractise.MavenJava.AppTest">
+        <test-method status="PASS" signature="AppTest()[pri:0, instance:SeleniumPractise.MavenJava.AppTest@5ae63ade]" name="AppTest" duration-ms="6" started-at="2020-07-02T22:02:58 IST" finished-at="2020-07-02T22:02:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppTest -->
+      </class> <!-- SeleniumPractise.MavenJava.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
